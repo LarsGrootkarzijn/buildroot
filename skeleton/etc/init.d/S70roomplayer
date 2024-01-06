@@ -1,0 +1,8 @@
+#!/bin/sh
+
+########################################
+#Script which inits the roomplayer gpios
+########################################
+
+echo "Initilizing Simple Audio Roomplayer Parameters"
+/usr/bin/initgpio
